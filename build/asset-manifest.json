@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Aymsep/Portfolio_React/static/css/main.2d8044bf.css",
-    "main.js": "/Aymsep/Portfolio_React/static/js/main.6e6dcd29.js",
-    "static/media/img1.jpg": "/Aymsep/Portfolio_React/static/media/img1.1390cf746ab40d8d1e2a.jpg",
-    "static/media/CV.pdf": "/Aymsep/Portfolio_React/static/media/CV.96565846c0705da21936.pdf",
-    "static/media/image-1.jpg": "/Aymsep/Portfolio_React/static/media/image-1.4b521e40f7be7f893923.jpg",
-    "static/media/portfolio.png": "/Aymsep/Portfolio_React/static/media/portfolio.a82ae9a163c1ac5e3a07.png",
-    "index.html": "/Aymsep/Portfolio_React/index.html",
-    "main.2d8044bf.css.map": "/Aymsep/Portfolio_React/static/css/main.2d8044bf.css.map",
-    "main.6e6dcd29.js.map": "/Aymsep/Portfolio_React/static/js/main.6e6dcd29.js.map"
+    "main.css": "/Portfolio_React/static/css/main.2d8044bf.css",
+    "main.js": "/Portfolio_React/static/js/main.b0ae1840.js",
+    "static/media/img1.jpg": "/Portfolio_React/static/media/img1.1390cf746ab40d8d1e2a.jpg",
+    "static/media/CV.pdf": "/Portfolio_React/static/media/CV.96565846c0705da21936.pdf",
+    "static/media/image-1.jpg": "/Portfolio_React/static/media/image-1.4b521e40f7be7f893923.jpg",
+    "static/media/portfolio.png": "/Portfolio_React/static/media/portfolio.a82ae9a163c1ac5e3a07.png",
+    "index.html": "/Portfolio_React/index.html",
+    "main.2d8044bf.css.map": "/Portfolio_React/static/css/main.2d8044bf.css.map",
+    "main.b0ae1840.js.map": "/Portfolio_React/static/js/main.b0ae1840.js.map"
   },
   "entrypoints": [
     "static/css/main.2d8044bf.css",
-    "static/js/main.6e6dcd29.js"
+    "static/js/main.b0ae1840.js"
   ]
 }
