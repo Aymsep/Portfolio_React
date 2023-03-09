@@ -14,23 +14,23 @@ const Service = () => {
           </div>
           <ul className="services_list">
             <li><AiOutlineCheck className="service_list_icon"/>
-            <p>lorem  loremloremloremlorem lorem  lorem lorem loremlorem</p>
+            <p>Conducting user research to understand the needs and behaviors of your client's</p>
             </li>
             
             <li><AiOutlineCheck className="service_list_icon"/>
-            <p>lorem  loremloremloremlorem lorem  lorem lorem loremlorem</p>
+            <p>Creating wireframes and prototypes to visualize the layout, content</p>
             </li>
             
             <li><AiOutlineCheck className="service_list_icon"/>
-            <p>lorem  loremloremloremlorem lorem  lorem lorem loremlorem</p>
+            <p>Designing the visual elements of the user interface, including color schemes, typography, and imagery</p>
             </li>
             
             <li><AiOutlineCheck className="service_list_icon"/>
-            <p>lorem  loremloremloremlorem lorem  lorem lorem loremlorem</p>
+            <p>Designing the interactions and animations within the user interface to enhance the user experience</p>
             </li>
             
             <li><AiOutlineCheck className="service_list_icon"/>
-            <p>lorem  loremloremloremlorem lorem  lorem lorem loremlorem</p>
+            <p>Conducting usability testing to evaluate the effectiveness and usability of the user interface</p>
             </li>
             
             <li><AiOutlineCheck className="service_list_icon"/>
@@ -46,66 +46,28 @@ const Service = () => {
           </div>
           <ul className="services_list">
             <li><AiOutlineCheck className="service_list_icon"/>
-            <p>lorem  loremloremloremlorem lorem  lorem lorem loremlorem</p>
+            <p>Creating the user-facing side of a website or web application using HTML, CSS, and JavaScript to ensure an engaging and intuitive user interface</p>
             </li>
             
             <li><AiOutlineCheck className="service_list_icon"/>
-            <p>lorem  loremloremloremlorem lorem  lorem lorem loremlorem</p>
+            <p> Developing the server-side of a website or web application using server-side languages like Node.js, to create dynamic and functional web pages.</p>
             </li>
             
             <li><AiOutlineCheck className="service_list_icon"/>
-            <p>lorem  loremloremloremlorem lorem  lorem lorem loremlorem</p>
+            <p> Creating RESTful APIs to enable communication between the front-end and back-end of a website or web application.</p>
             </li>
             
             <li><AiOutlineCheck className="service_list_icon"/>
-            <p>lorem  loremloremloremlorem lorem  lorem lorem loremlorem</p>
+            <p>Building and managing databases to store and manage data for websites and web applications </p>
             </li>
             
             <li><AiOutlineCheck className="service_list_icon"/>
-            <p>lorem  loremloremloremlorem lorem  lorem lorem loremlorem</p>
-            </li>
-            
-            <li><AiOutlineCheck className="service_list_icon"/>
-            <p>lorem  loremloremloremlorem lorem  lorem lorem loremlorem</p>
-            </li>
-            
-            <li><AiOutlineCheck className="service_list_icon"/>
-            <p>lorem  loremloremloremlorem lorem  lorem lorem loremlorem</p>
+            <p>optimization: Improving the loading speed and overall performance of websites and web applications to ensure a smooth user experience.</p>
             </li>
           </ul>
         </article>
             {/* //end of web developement */}
 
-        <article className="service">
-          <div className="service_head">
-            <h3>Search Engine Optimisation</h3>
-          </div>
-          <ul className="services_list">
-            <li><AiOutlineCheck className="service_list_icon"/>
-            <p>lorem  loremloremloremlorem lorem  lorem lorem loremlorem</p>
-            </li>
-            
-            <li><AiOutlineCheck className="service_list_icon"/>
-            <p>lorem  loremloremloremlorem lorem  lorem lorem loremlorem</p>
-            </li>
-            
-            <li><AiOutlineCheck className="service_list_icon"/>
-            <p>lorem  loremloremloremlorem lorem  lorem lorem loremlorem</p>
-            </li>
-            
-            <li><AiOutlineCheck className="service_list_icon"/>
-            <p>lorem  loremloremloremlorem lorem  lorem lorem loremlorem</p>
-            </li>
-            
-            <li><AiOutlineCheck className="service_list_icon"/>
-            <p>lorem  loremloremloremlorem lorem  lorem lorem loremlorem</p>
-            </li>
-            
-            <li><AiOutlineCheck className="service_list_icon"/>
-            <p>lorem  loremloremloremlorem lorem  lorem lorem loremlorem</p>
-            </li>
-          </ul>
-        </article>
             {/* //end of search engine optimisation */}
       </div>
     </section>

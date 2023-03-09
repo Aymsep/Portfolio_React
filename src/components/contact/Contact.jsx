@@ -3,7 +3,7 @@ import { useRef } from 'react';
 import './contact.css'
 import {AiOutlineMail} from 'react-icons/ai'
 import {RiMessengerLine} from 'react-icons/ri'
-import {BsWhatsapp} from 'react-icons/bs'
+import {BsGithub,BsLinkedin} from 'react-icons/bs'
 import emailjs from 'emailjs-com'
 
 const Contact = () => {
@@ -29,22 +29,22 @@ const Contact = () => {
           <article className="option">
             <AiOutlineMail className="option_icon"/>
             <h4>Email</h4>
-            <h5>lorem@gmail.com</h5>
-            <a href="mailto:lorem@gmail.com">Send a message</a>
+            <h5>bouraki655@ggmail.com</h5>
+            <a href="mailto:bouraki655@ggmail.com">Send a message</a>
           </article>
 
           <article className="option">
-            <RiMessengerLine className="option_icon"/>
-            <h4>Messenger</h4>
-            <h5>@lorem_lorem</h5>
-            <a href="https://m.me/lorem_lorem" target="_blank">Send a message</a>
+            <BsGithub className="option_icon"/>
+            <h4>Github</h4>
+            <h5>@bouraki</h5>
+            <a href="https://github.com/bouraki" target="_blank">Visite Now</a>
           </article>
 
           <article className="option">
-            <BsWhatsapp className="option_icon"/>
-            <h4>Whatsapp</h4>
-            <h5>Whatsapp Me Now</h5>
-            <a href="https://wa.me/+888888888" target="_blank">Send a message</a>
+            <BsLinkedin className="option_icon"/>
+            <h4>Linkedin</h4>
+            <h5>Get To Know Me</h5>
+            <a href="https://wa.me/+888888888" target="_blank">Visite Now</a>
           </article>
 
         </div>

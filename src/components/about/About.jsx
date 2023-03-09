@@ -22,25 +22,24 @@ const About = () => {
             <article className="about_card">
               <FaAward className='about_icon'/>
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>2+ Years Working</small>
             </article>
             
             <article className="about_card">
               <FaUsers className='about_icon'/>
               <h5>Clients</h5>
-              <small>200+ World Wide</small>
+              <small>20+ World Wide</small>
             </article>
 
             <article className="about_card">
               
               <VscFolderLibrary className='about_icon' />
               <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <small>10+ Completed</small>
 
             </article>
           </div>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, vero debitis enim odit aut ipsa aliquid ab! Odit fugit soluta eveniet! Enim maiores veritatis, doloremque eius mollitia ad consequuntur illum.
-          Dolorum velit maiores aperiam eos, corporis voluptates! Aspernatur reprehenderit corrupti modi eius harum incidunt voluptatibus voluptas inventore porro amet vitae a temporibus soluta, similique animi magnam, labore deserunt ullam eos.</p>
+          <p>I'm  a web developer and designer with a 2-year diploma in networking and protocols. I completed a 5-month bootcamp in full-stack JavaScript and a UI/UX bootcamp with Orange. I specialize in creating visually stunning websites with great animation and designing effective ads. I'm proficient in several programming languages and frameworks, including HTML, CSS, JavaScript, React, Node.js, and MongoDB. I also use Figma for design work.</p>
 
           <a href="#contact" class="btn btn-primary">Let's Talk</a>
         </div>

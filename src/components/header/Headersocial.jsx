@@ -14,9 +14,7 @@ const Headersocial = () => {
             <AiFillGithub/>
         </a>
 
-        <a href="https://instagram.com" target="_blank" className="">
-            <FaInstagramSquare/>
-        </a>
+        
         
     </div>
   )
