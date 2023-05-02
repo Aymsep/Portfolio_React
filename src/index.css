@@ -10,16 +10,18 @@
     list-style: none;
     text-decoration: none;
     font-family: 'Tajawal', sans-serif;
+
+    color : black !important;
 }
 
 :root{
     /* COLORS */
 
-    --color-bg:#1f1f38;
-    --color-bg-variant:#2c2c6c;
-    --color-primary:#4db5ff;
+    --color-bg:#28616a61;
+    --color-bg-variant:#0d7e8d5a;
+    --color-primary:#0d7e8d;
     --color-primary-variant:rgba(77,181,255,0.4);
-    --color-white:#fff;
+    --color-white:#0d7e8d5a;
     --color-light:rgba(255,255,255,0.6);
     
     /* CONTAINER WIDTH */
